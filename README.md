@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/ToxaWest/lampa-plugins/main/west_video.js
 
 Додайте плагін у розширення Lampa та перезапустіть її:
 
-https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/west_recommendations.js
+https://raw.githubusercontent.com/ToxaWest/lampa-plugins/main/west_recommendations.js
 
 У налаштуваннях **West Recommendations** введіть **«Токен доступу для читання API»**
 зі сторінки https://www.themoviedb.org/settings/api та перевірте підключення.
